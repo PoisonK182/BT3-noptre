@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\excercise-2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\excercise-2\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\excercise-2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\excercise-2\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\excercise-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\excercise-2\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\excercise-2\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B625C3-B467-4C36-A45A-805A1A419B7B}|TCPServer\\TCPServer.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\tcpserver\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64B625C3-B467-4C36-A45A-805A1A419B7B}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B625C3-B467-4C36-A45A-805A1A419B7B}|TCPServer\\TCPServer.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\tcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B625C3-B467-4C36-A45A-805A1A419B7B}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B625C3-B467-4C36-A45A-805A1A419B7B}|TCPServer\\TCPServer.csproj|c:\\users\\admin\\desktop\\new folder (4)\\ltm-nt016\\baitap\\tcpserver\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B625C3-B467-4C36-A45A-805A1A419B7B}|TCPServer\\TCPServer.csproj|solutionrelative:tcpserver\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "signup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\signup.cs",
+              "RelativeDocumentMoniker": "excercise-2\\signup.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\signup.cs",
+              "RelativeToolTip": "excercise-2\\signup.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAtwIQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:57:20.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\login.cs",
+              "RelativeDocumentMoniker": "excercise-2\\login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\login.cs*",
+              "RelativeToolTip": "excercise-2\\login.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA2wFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:56:54.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\login.cs",
+              "RelativeDocumentMoniker": "excercise-2\\login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\login.cs [Design]*",
+              "RelativeToolTip": "excercise-2\\login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:56:19.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "infor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\infor.cs",
+              "RelativeDocumentMoniker": "excercise-2\\infor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\infor.cs [Design]",
+              "RelativeToolTip": "excercise-2\\infor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:55.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\Packet.cs",
+              "RelativeDocumentMoniker": "excercise-2\\Packet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\Packet.cs",
+              "RelativeToolTip": "excercise-2\\Packet.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:53.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\Program.cs",
+              "RelativeDocumentMoniker": "excercise-2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\Program.cs",
+              "RelativeToolTip": "excercise-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:52.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\signup.cs",
+              "RelativeDocumentMoniker": "excercise-2\\signup.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\excercise-2\\signup.cs [Design]",
+              "RelativeToolTip": "excercise-2\\signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:47.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TCPServer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\TCPServer\\TCPServer.cs",
+              "RelativeDocumentMoniker": "TCPServer\\TCPServer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\TCPServer\\TCPServer.cs [Design]",
+              "RelativeToolTip": "TCPServer\\TCPServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:38.106Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\TCPServer\\Program.cs",
+              "RelativeDocumentMoniker": "TCPServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\TCPServer\\Program.cs",
+              "RelativeToolTip": "TCPServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:34.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\TCPServer\\Packet.cs",
+              "RelativeDocumentMoniker": "TCPServer\\Packet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder (4)\\LTM-NT016\\BaiTap\\TCPServer\\Packet.cs",
+              "RelativeToolTip": "TCPServer\\Packet.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:54:32.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
